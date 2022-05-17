@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+.loginControl{
+    box-shadow: -5px 19px 51px 2px rgba(0,0,0,0.75);
+}
+.loginLogo{
+   
+    font-family: 'Ubuntu', sans-serif;
+    color:darkblue;
+    font-size:xx-large;
+    font-weight:bolder;
+}
+.forgot{
+    margin-bottom: 25px;
+}
+.insideLine{
+    color:#555;
+}
