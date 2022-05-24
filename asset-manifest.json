@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/adminpanel/static/css/main.6919d180.css",
+    "main.js": "/adminpanel/static/js/main.971b3b74.js",
+    "static/media/vinod.png": "/adminpanel/static/media/vinod.4b584e64da9f12a66be0.png",
+    "static/media/Topadmin.png": "/adminpanel/static/media/Topadmin.6eefb3971adb2565b362.png",
+    "static/media/bootstrap-icons.woff?": "/adminpanel/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/adminpanel/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "static/media/Electric.jpg": "/adminpanel/static/media/Electric.37e3ed7eac6a5f561786.jpg",
+    "index.html": "/adminpanel/index.html",
+    "main.6919d180.css.map": "/adminpanel/static/css/main.6919d180.css.map",
+    "main.971b3b74.js.map": "/adminpanel/static/js/main.971b3b74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6919d180.css",
+    "static/js/main.971b3b74.js"
+  ]
+}
