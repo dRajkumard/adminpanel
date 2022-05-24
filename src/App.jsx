@@ -23,10 +23,10 @@ const App = () => {
            </Route>  */}
          
      <Topbar />
-    
-      <div className="containe">
-      
+     
+      <div className="container">
       <Sidebar />
+      
       <Switch>
         <Route exact path="/">
         
