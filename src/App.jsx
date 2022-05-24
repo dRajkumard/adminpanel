@@ -15,18 +15,20 @@ import Login from "./Pages/Login/Login"
 import Transaction from "./Pages/Transaction/Transaction";
 const App = () => {
   return (
+    <>
   
-    <Router>
       {/* <Switch> */}
        {/* <Route exact path="/">
            <Login/>
            </Route>  */}
-         
+           <Router>  
+       
+           
      <Topbar />
      
-      <div className="container">
+      <div className="containe">
       <Sidebar />
-      
+   
       <Switch>
         <Route exact path="/">
         
@@ -54,13 +56,15 @@ const App = () => {
           <Route path='/transaction'>
             <Transaction/>
           </Route>
+          
           </Switch>
+         
           </div>
           {/* </Switch> */}
           
-         
-           
-    </Router>
+          </Router>
+          </>
+ 
    
   );
 };
